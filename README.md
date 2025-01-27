@@ -57,7 +57,7 @@ To contribute to the success of a business by leveraging data analysis technique
 
 ### Repository Structure
 - **/Dataset:** Contains the cleaned and processed dataset used in the project.
-- **/Dashboard:** [View the Dashboard Preview](./Dashboard/Super Store Sales Dashboard.png)
+- **/Dashboard:** [View the Dashboard Preview](./Super Store Sales Dashboard.png)
 - **/Documentation:** Detailed project report and methodology.
 
 
