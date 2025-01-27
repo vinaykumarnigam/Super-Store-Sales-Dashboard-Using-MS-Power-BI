@@ -57,7 +57,7 @@ To contribute to the success of a business by leveraging data analysis technique
 
 ### Repository Structure
 - **/Dataset:** Contains the cleaned and processed dataset used in the project.
-- **/Dashboard:** Power BI Dashbaord (png) showcasing the dashboard.
+- **/Dashboard:** [View the Dashboard Preview](./Dashboard/super_store_dashboard.png)
 - **/Documentation:** Detailed project report and methodology.
 
 
